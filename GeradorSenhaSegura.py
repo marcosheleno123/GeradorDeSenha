@@ -72,4 +72,4 @@ class TelaPython:
                     print(senha4s)
            
 tela = TelaPython()
-tela.Iniciar()    
+tela.Iniciar()  
